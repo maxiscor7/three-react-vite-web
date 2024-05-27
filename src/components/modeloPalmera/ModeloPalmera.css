@@ -1,0 +1,7 @@
+.container-canvas{
+    width: 800px;
+}
+canvas{
+    height: 800px;
+    width: 100%;
+}
